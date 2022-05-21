@@ -16,3 +16,22 @@ Thông tin node:
 - https://docs.ethhub.io/using-ethereum/running-an-ethereum-node/
 
 
+**Lệnh tham khảo:
+**
+
+npm install geth  parity 
+
+geth  --help
+geth --syncmode light
+parity --light
+parity --light --no-hardcoded-sync
+
+geth --syncmode full
+parity --no-warp
+geth --syncmode full --gcmode archive
+parity --no-warp --pruning archive
+
+geth --http
+
+*** https://geth.ethereum.org/docs/interface/command-line-options
+
