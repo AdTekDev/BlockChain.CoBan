@@ -18,3 +18,7 @@ Opts:
 https://libbitcoin.dyne.org
 
 
+Xem thông tin Ví, địa chỉ, giao dịch, ...
+- bitaddress.org
+- https://www.blockchain.com/explorer 
+- https://live.blockcypher.com/ 
