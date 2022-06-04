@@ -14,3 +14,10 @@ Xem thông tin các Block:
 - ví dụ - https://etherscan.io/block/14900607
 
 
+Web3:
+
+npm install --save-dev react-app-rewired crypto-browserify stream-browserify assert stream-http https-browserify os-browserify url buffer process
+
+
+npm install --save-dev crypto-browserify stream-browserify assert stream-http https-browserify os-browserify 
+
