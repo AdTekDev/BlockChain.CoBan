@@ -4,6 +4,7 @@ Cài đặt:
 - https://trufflesuite.com/ganache/ 
 - https://github.com/trufflesuite/ganache-ui 
 - https://github.com/ChainSafe/web3.js 
+- https://geth.ethereum.org/downloads/
 
 
 Opt:
@@ -12,6 +13,10 @@ Opt:
 
 Xem thông tin các Block:
 - ví dụ - https://etherscan.io/block/14900607
+
+dAPPs - DAOs, ...
+- https://www.stateofthedapps.com/ 
+
 
 
 Web3:
